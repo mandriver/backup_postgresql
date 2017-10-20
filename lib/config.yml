@@ -1,0 +1,13 @@
+email:
+  address: '' # Address smtp server
+  from: '' # mail from
+  to: '' #
+  subject: ''
+database:
+  user: '' # User for connect to the database
+  name: '' # Database name
+server:
+  address: '' # Address remote server
+  user: '' # User for connect to the remote server
+  password: '' # Password for connect to the remote server
+  backup_path: '' # Backup path on the remote server
